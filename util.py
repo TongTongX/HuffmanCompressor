@@ -1,14 +1,4 @@
-# The functions in this file are to be implemented by students.
-'''
-	Assignment 2
-	Alan(Xutong) Zhao	1430631
-	Yue Ma 				1434071
-	LBL EB1
-	Acknowledgement:	I received help from Junfeng Wen during office hour
-						on March 4th, Friday. He explained the structure of 
-						Huffman tree.
-
-'''
+# The functions in this file were implemented by Alan Zhao.
 
 import bitio
 import huffman
