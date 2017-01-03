@@ -1,8 +1,4 @@
 # HuffmanCompressor
-A data compression software implemented in Python3 using Huffman Coding
-
-Alan(Xutong) Zhao
-Yue Ma
 
 This programs compresses and decompresses files using Huffman codes. The compressor
 is a command-line utility that encodes any file into a compressed version with a .huf extension. The decompressor is a web server that will let you directly browse compressed files, decoding them on-the-fly as they are being sent to your web browser.
